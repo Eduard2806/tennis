@@ -1,0 +1,32 @@
+Creating a new Next.js app in /Users/niekerkv/Documents/vibe/tennis/frontend.
+
+Using npm.
+
+Initializing project with template: app-tw 
+
+
+Installing dependencies:
+- react
+- react-dom
+- next
+
+Installing devDependencies:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- @tailwindcss/postcss
+- tailwindcss
+- eslint
+- eslint-config-next
+- @eslint/eslintrc
+
+
+added 332 packages, and audited 333 packages in 16s
+
+136 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Success! Created frontend at /Users/niekerkv/Documents/vibe/tennis/frontend
+
